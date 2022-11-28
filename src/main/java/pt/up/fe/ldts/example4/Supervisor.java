@@ -18,4 +18,13 @@ public class Supervisor extends Worker {
     public boolean isSupervisee(Worker worker) {
         return supervisee.contains(worker);
     }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        if (!super.equals(o)) return false;
+        Supervisor that = (Supervisor) o;
+        return supervisee.equals(that.supervisee);
+    }
 }
