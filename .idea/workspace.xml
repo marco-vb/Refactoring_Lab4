@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6a41d549-ee92-4bf3-94fe-6f591e2f3ef7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/up/fe/ldts/example2/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/up/fe/ldts/example2/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pt/up/fe/ldts/example2/ShapeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pt/up/fe/ldts/example2/ShapeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pt/up/fe/ldts/example3/Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/up/fe/ldts/example3/Discount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/groovy/pt/up/fe/ldts/example2/ShapeSpockTest.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/groovy/pt/up/fe/ldts/example2/ShapeSpockTest.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pt/up/fe/ldts/example3/SimpleOrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pt/up/fe/ldts/example3/SimpleOrderTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,7 @@
       <workItem from="1669579051454" duration="61000" />
       <workItem from="1669579192914" duration="16000" />
       <workItem from="1669579219149" duration="1628000" />
-      <workItem from="1669650185417" duration="1460000" />
+      <workItem from="1669650185417" duration="3211000" />
     </task>
     <servers />
   </component>
